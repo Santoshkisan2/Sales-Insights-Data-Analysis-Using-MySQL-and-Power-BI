@@ -1,2 +1,2 @@
-# Company-Sales-Analysis-Using-MySQL-and-Power-BI
+# Sales-Insights-Project-Analysis-Using-MySQL-and-Power-BI
 
